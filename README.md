@@ -1,0 +1,1 @@
+# jasmine-window-method-issue
